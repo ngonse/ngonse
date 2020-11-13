@@ -1,7 +1,7 @@
 ### Hi, I'm Nick
 
 ```
-<> import React from 'react';
+import React from 'react';
 
 const NickGonzalez = () => {
   return (
