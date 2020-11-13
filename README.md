@@ -1,4 +1,14 @@
 ### Hi, I'm Nick
 
-- 🔭 I’m currently working on UCR
-- 🌱 I’m always learning
+import React from 'react';
+
+const NickGonzalez = () => {
+  return (
+    <div>
+      <h1>Nick González</h1>
+      <h2>Web & Mobile Developer / Professor</h2>
+    </div>
+  );
+}
+
+export default NickGonzalez;
