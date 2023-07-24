@@ -1,3 +1,5 @@
+![img](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 ### Hey there, I'm Nick! 
 
 I'm a software engineer and part-time teacher who is passionate about all things JavaScript and mobile development. 
